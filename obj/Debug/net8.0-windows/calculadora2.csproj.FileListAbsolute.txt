@@ -1,0 +1,17 @@
+C:\Users\Eliezer.psantos1\source\repos\calculadora2\bin\Debug\net8.0-windows\calculadora2.exe
+C:\Users\Eliezer.psantos1\source\repos\calculadora2\bin\Debug\net8.0-windows\calculadora2.deps.json
+C:\Users\Eliezer.psantos1\source\repos\calculadora2\bin\Debug\net8.0-windows\calculadora2.runtimeconfig.json
+C:\Users\Eliezer.psantos1\source\repos\calculadora2\bin\Debug\net8.0-windows\calculadora2.dll
+C:\Users\Eliezer.psantos1\source\repos\calculadora2\bin\Debug\net8.0-windows\calculadora2.pdb
+C:\Users\Eliezer.psantos1\source\repos\calculadora2\obj\Debug\net8.0-windows\calculadora2.Form1.resources
+C:\Users\Eliezer.psantos1\source\repos\calculadora2\obj\Debug\net8.0-windows\calculadora2.csproj.GenerateResource.cache
+C:\Users\Eliezer.psantos1\source\repos\calculadora2\obj\Debug\net8.0-windows\calculadora2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliezer.psantos1\source\repos\calculadora2\obj\Debug\net8.0-windows\calculadora2.AssemblyInfoInputs.cache
+C:\Users\Eliezer.psantos1\source\repos\calculadora2\obj\Debug\net8.0-windows\calculadora2.AssemblyInfo.cs
+C:\Users\Eliezer.psantos1\source\repos\calculadora2\obj\Debug\net8.0-windows\calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\Eliezer.psantos1\source\repos\calculadora2\obj\Debug\net8.0-windows\calculadora2.dll
+C:\Users\Eliezer.psantos1\source\repos\calculadora2\obj\Debug\net8.0-windows\refint\calculadora2.dll
+C:\Users\Eliezer.psantos1\source\repos\calculadora2\obj\Debug\net8.0-windows\calculadora2.pdb
+C:\Users\Eliezer.psantos1\source\repos\calculadora2\obj\Debug\net8.0-windows\calculadora2.genruntimeconfig.cache
+C:\Users\Eliezer.psantos1\source\repos\calculadora2\obj\Debug\net8.0-windows\ref\calculadora2.dll
+C:\Users\Eliezer.psantos1\source\repos\calculadora2\obj\Debug\net8.0-windows\calculadora2.Form2.resources
